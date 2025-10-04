@@ -1,0 +1,5 @@
+thresholds:
+  theta_l: 20.0
+  theta_h: 80.0
+window_sec: 30.0
+capacity: 100
