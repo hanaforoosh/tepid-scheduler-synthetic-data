@@ -1,0 +1,12 @@
+A_heavy:
+  dependency_load_time_range_s: [1.0, 2.5]
+  function_duration_range_s: [0.8, 3.0]
+  image_size_mb: [150, 500]
+  dependency_count: [5, 8]
+  languages: ["python","nodejs","go","rust"]
+B_light:
+  dependency_load_time_range_s: [0.0, 0.1]
+  function_duration_range_s: [0.5, 1.5]
+  image_size_mb: [0, 100]
+  dependency_count: [0, 1]
+  languages: ["python","nodejs","go"]

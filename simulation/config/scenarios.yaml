@@ -1,0 +1,33 @@
+S1:
+  lambda: 15.0
+  n_requests: 1000
+  seed: 42
+  profile: constant
+S2:
+  lambda: 120.0
+  n_requests: 2000
+  seed: 42
+  profile: constant
+S3:
+  profile: burst
+  low_lambda: 10.0
+  high_lambda: 120.0
+  low_dur_s: 30
+  high_dur_s: 10
+  total_dur_s: 600
+  seed: 42
+S4:
+  lambda: 80.0
+  n_requests: 1500
+  seed: 43
+  profile: constant
+S5:
+  lambda: 40.0
+  n_requests: 1500
+  seed: 44
+  profile: constant
+S6:
+  lambda: 120.0
+  n_requests: 2000
+  seed: 45
+  profile: constant

@@ -1,0 +1,6 @@
+function_id,language,dependency_count,image_size_mb,dependency_load_time_s,function_duration_s
+0,python,6,250,1.8,1.2
+1,nodejs,5,180,1.2,1.5
+2,go,7,300,2.1,2.4
+3,rust,8,420,2.4,2.8
+4,python,6,260,1.9,0.9

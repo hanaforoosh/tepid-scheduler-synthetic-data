@@ -1,0 +1,23 @@
+{
+  "dependency_load_time_range_s": [
+    0.0,
+    0.1
+  ],
+  "function_duration_range_s": [
+    0.5,
+    1.5
+  ],
+  "image_size_mb": [
+    0,
+    100
+  ],
+  "dependency_count": [
+    0,
+    1
+  ],
+  "languages": [
+    "python",
+    "nodejs",
+    "go"
+  ]
+}
